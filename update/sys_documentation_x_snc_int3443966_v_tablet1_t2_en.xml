@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="t2" label="T2" language="en" table="x_snc_int3443966_v_tablet1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>t2</element>
+            <help/>
+            <hint/>
+            <label>T2</label>
+            <language>en</language>
+            <name>x_snc_int3443966_v_tablet1</name>
+            <plural>T2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mohammed.ali@snc</sys_created_by>
+            <sys_created_on>2017-11-03 13:06:36</sys_created_on>
+            <sys_id>b5770b8cdb924700aebf3ecf9d9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>T2</sys_name>
+            <sys_package display_value="INT3443966_VAL" source="x_snc_int3443966_v">0b254b0cdb924700aebf3ecf9d961995</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="INT3443966_VAL">0b254b0cdb924700aebf3ecf9d961995</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_int3443966_v_tablet1_t2_en</sys_update_name>
+            <sys_updated_by>mohammed.ali@snc</sys_updated_by>
+            <sys_updated_on>2017-11-03 13:06:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
